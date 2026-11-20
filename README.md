@@ -48,9 +48,13 @@
 ## Captures
 
 <p align="center">
-  <img src="captures/accueil.png" width="32%" alt="Accueil : nouveau montage, modèles et projets">
-  <img src="captures/modeles.png" width="32%" alt="Choix d'un modèle">
-  <img src="captures/editeur.png" width="32%" alt="Éditeur : aperçu, timeline et outils">
+  <img src="captures/editeur.png" width="32%" alt="Éditeur : thème Anniversaire, autocollant et guide des zones TikTok">
+  <img src="captures/themes.png" width="32%" alt="Galerie des thèmes">
+  <img src="captures/filtres.png" width="32%" alt="Filtres de style et réglages">
+</p>
+<p align="center">
+  <img src="captures/accueil.png" width="48%" alt="Accueil : nouveau montage, montage automatique et modèles">
+  <img src="captures/sons.png" width="48%" alt="Bruitages à écouter avant de les poser">
 </p>
 
 ## Installer
