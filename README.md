@@ -30,6 +30,7 @@
 - **Incrustations** (vidéo dans la vidéo) : un coin, un écran partagé en deux, ou le plein cadre ; à placer au doigt et à redimensionner en pinçant.
 - **23 filtres de style** (Teal & Orange, Film noir, Vintage, VHS, Super 8, Néon…) avec aperçu sur votre image, et des réglages fins : lumière, contraste, saturation, température, teinte, noirs délavés, vignette, grain, virage.
 - **Bandes noires façon cinéma**, qui glissent depuis les bords à l'entrée et à la sortie.
+- **Guide des zones des réseaux** : en filigrane sur l'aperçu, les zones que TikTok, Reels ou Shorts recouvrent (boutons j'aime, commentaire, partage, nom et légende) et l'emplacement idéal du visage. Jamais visible dans la vidéo exportée.
 - Couper, rogner, réordonner, vitesse (ralenti/accéléré), transitions, formats 9:16, 16:9, 1:1, 4:5, 21:9, fond flou.
 
 ### Textes, autocollants et son
