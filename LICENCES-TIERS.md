@@ -16,6 +16,11 @@ Copyright (c) 2023-2026 The ggml authors
 
 Copyright (c) 2022 OpenAI
 
+## Cartes de Natural Earth — domaine public
+
+Contours des terres, frontières et villes de la carte de voyage.
+<https://www.naturalearthdata.com> — données libres de droits.
+
 ## Sons enregistrés de Kenney — Creative Commons CC0
 
 Bruitages enregistrés (impacts, pas, interface, cartes et dés, aventure,

@@ -29,7 +29,7 @@
 | | |
 |---|---|
 | ⚡ **Rapide** | Choisissez vos vidéos : le **montage automatique** trouve le style, garde les meilleurs passages et coupe sur le rythme de la musique. Il ne vous reste qu'à publier. |
-| 🎬 **Complet** | Thèmes, filtres de cinéma, textes animés, sous-titres, incrustations, bruitages, export 4K : tout ce qu'il faut pour TikTok, Reels, Shorts ou Stories. |
+| 🎬 **Complet** | Thèmes, filtres de cinéma, textes animés, sous-titres, incrustations, cartes de voyage animées, bruitages, export 4K : tout ce qu'il faut pour TikTok, Reels, Shorts ou Stories. |
 | 🔒 **Privé** | Tout se passe **sur votre appareil**, même hors ligne. Aucune vidéo n'est envoyée sur Internet, aucun compte n'est demandé. |
 | 🎁 **Vraiment gratuit** | Pas d'abonnement, pas de fonctions bloquées, pas de publicité, **pas de filigrane** sur vos vidéos. |
 
@@ -39,7 +39,7 @@
 
 **Montage automatique.** Sélectionnez vos vidéos et laissez faire : Raccord analyse le son et l'image, choisit un style adapté, garde les moments les plus vivants et cale chaque coupe sur la musique.
 
-**34 modèles inspirés des réseaux** (TikTok, Reels, Stories, YouTube…), rangés par envie : tendances, quotidien, voyage, fêtes, sport, cinéma, pro.
+**56 modèles inspirés des réseaux** (TikTok, Reels, Stories, YouTube…), rangés par envie : tendances, quotidien, voyage, fêtes, sport, cinéma, pro.
 
 **16 thèmes complets.** Anniversaire, Noël, Vacances, Mariage, Cinéma, Halloween, Rétro VHS… Un toucher change tout le montage d'un coup : filtre, transitions, style des textes, titre d'ouverture et bruitage.
 
@@ -84,6 +84,12 @@ Et pour les perfectionnistes : lumière, contraste, saturation, température, te
 </td>
 </tr>
 </table>
+
+## Racontez vos voyages
+
+**Carte de voyage animée.** Choisissez une ville de départ et une ville d'arrivée, parmi 1 250 villes du monde, ou touchez la carte pour placer un village. Choisissez ensuite le véhicule : ✈️ avion, 🚗 voiture, 🚙 4x4, 🛺 tuk-tuk, 🚆 train, ⛴️ bateau, 🚌 bus ou 🏍️ moto. Le trajet se trace en pointillés pendant que le véhicule avance, puis l'arrivée s'affiche. La carte existe en trois styles (clair, sombre, papier vintage) et fonctionne **hors ligne**, même au bout du monde.
+
+**Des modèles pensés pour le voyage** : Plage & soleil, Montagne, Sac à dos, Carte postale, Safari en 4x4, Road trip, En route !…
 
 ## Pensé pour être vu
 
@@ -163,4 +169,5 @@ Raccord embarque des composants libres, listés dans l'application (*Réglages �
 
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp) et ggml (licence MIT), et le modèle [Whisper](https://github.com/openai/whisper) d'OpenAI (licence MIT), pour les sous-titres ;
 - les sons de [Kenney](https://kenney.nl) (domaine public, CC0) ;
+- les cartes de [Natural Earth](https://www.naturalearthdata.com) (domaine public) ;
 - [Flutter](https://flutter.dev) (licence BSD).
